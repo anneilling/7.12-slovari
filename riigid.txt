@@ -1,0 +1,47 @@
+Albaania - Tirane
+Andorra - Andorra la Vella
+Austria - Viin
+Valgevene - Minsk
+Belgia - Brüssel
+Bosnia-Herzegovina - Sarajevo
+Bulgaria - Sofia
+Croatia - Zagreb
+Czech Republic - Prague
+Cyprus- Nicosia
+Taani -	Copenhagen
+Eesti -	Tallinn
+Soome -	Helsingi
+Prantsusmaa - Pariis
+Saksamaa - Berliin
+Kreeka - Ateena
+Ungari - Budapest
+Island - Reikjavik
+Iirimaa - Dublin
+Itaalia - Rooma
+Läti - Riia
+Liechtenstein - Vaduz
+Leedu - Vilnius
+Luxembourg - Luxembourg
+Macedonia - Skopje
+Malta - Valletta
+Moldova - Kishinev
+Monaco - Monaco
+Netherlands - Amsterdam
+Norra - Oslo
+Poola - Warsaw
+Portugal - Lisbon
+Romeenia - Bucharest
+Venemaa	Moskva
+San Marino - San Marino
+Slovakkia - Bratislava
+Sloveenia - Ljubljana
+Hispaania - Madrid
+Rootsi - Stockholm
+Switzerland - Bern
+Ukraina - Kiiev
+Inglismaa - London
+Vatican City - Vatican City
+Yugoslavia - Belgrade
+Armeenia - Jerevan
+Azerbaijan - Baku
+Georgia - Tbilisi
