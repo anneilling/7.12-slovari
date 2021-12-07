@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "7.12 slovari", "7.12 slovari.pyproj", "{9C8048CF-F4C7-4646-9DFB-5D0C3A8429BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8048CF-F4C7-4646-9DFB-5D0C3A8429BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8048CF-F4C7-4646-9DFB-5D0C3A8429BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30A250D1-5658-4852-B31E-E9C00439E5BB}
+	EndGlobalSection
+EndGlobal
