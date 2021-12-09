@@ -10,7 +10,7 @@ Czech Republic - Prague
 Cyprus- Nicosia
 Taani -	Copenhagen
 Eesti -	Tallinn
-Soome -	Helsingi
+Soome  - Helsingi
 Prantsusmaa - Pariis
 Saksamaa - Berliin
 Kreeka - Ateena
@@ -31,7 +31,7 @@ Norra - Oslo
 Poola - Warsaw
 Portugal - Lisbon
 Romeenia - Bucharest
-Venemaa	Moskva
+Venemaa	- Moskva
 San Marino - San Marino
 Slovakkia - Bratislava
 Sloveenia - Ljubljana

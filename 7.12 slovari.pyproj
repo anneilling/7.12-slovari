@@ -27,8 +27,7 @@
     <Compile Include="_7.12_slovari.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="riigid.txt" />
-    <Content Include="pealinn.txt" />
+    <Content Include="Text.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
