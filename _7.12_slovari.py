@@ -1,9 +1,13 @@
 from gtts import gTTS
 import os
-
+win=0
+kus=0
+rg=0
+a=0
 sonastik={} #sõnastiku loomine
 riigid=linnad=[]
 file=open("Text.txt", "r") #tekstifaili avamine
+file=open("Kus.txt", "r") #tekstifaili avamine
 for line in file: #tsükkli loomine
     k, v=line.strip().split(" - ") #
     sonastik[k.strip()] = v.strip()
@@ -13,7 +17,7 @@ file.close() #paneme faili kinni
 
 
 while True: #mugavuse huvids kasutame tsükkli
-    print("Euroopa riigid")
+    print()
     print("1 - Tunnustame riiki või pealinna\n2 - Lisame uut riiki või pealinna\n3 - Kontrolli enda") #kasutaja teeb valiku
     v=int(input())
     if v==1:
@@ -31,11 +35,15 @@ while True: #mugavuse huvids kasutame tsükkli
         #file=open("Text.txt" , "x") #avab kirjutamiseks, kui faili pole olemas 
         file=open("Text.txt" , "a") #liisab infot faili lõpuks
     elif v==3:
-        v=input("Venemaa pealinn on... ")
+        kus=="Kus.txt"
+        rg=="Text.txt"
+        a=input(kus)
         if v=="Moskva":
+            win+=1
             print("Õige.")
         else:
-           print("Vale!")
+                print("Vale!")
+                break
     else:
         print("Vale valik.") #kui kasutaja valis vale numbrit siis palume uuesti valida
 
